@@ -1,0 +1,10 @@
+[POSTGRES]
+user = postgres
+password = postgres
+dbname = postgres
+host = 127.0.0.1
+port = 5432
+
+[URL_DU]
+url_principal = https://www.pciconcursos.com.br/provas/
+url_u_google_drive = Google Drive
